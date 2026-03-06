@@ -6,7 +6,7 @@
 
 > **"I don't build software for the world; I build software to survive the market."**
 
-I am a retail trader in the **Nepal Stock Exchange (NEPSE)**. To be honest, I am still a "weak" trader learning the ropes, but I refuse to trade blindly. I believe that data is the only edge a small trader has against the giants. 
+I am a retail trader in the **Nepal Stock Exchange (NEPSE)**. To be honest, I am still a "weak" trader learning the ropes who only gets about 12% gain per Month, but I refuse to trade blindly. I believe that data is the only edge a small trader has against the giants. 
 
 I build these tools for **my personal use**—to organize my messy broker statements, analyze market trends, and ultimately, to improve my own "Trader Life."
 
@@ -42,5 +42,5 @@ These pages and projects are **under construction**. Since I build them for my p
 
 🟢 **WhatsApp Me:** [Message Jagdish](https://wa.me/9779702406668) ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagdishsah&show_icons=true&theme=dark&hide_border=true&bg_color=050505" alt="Jagdish's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jagdishsah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
