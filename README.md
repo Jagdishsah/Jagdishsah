@@ -40,7 +40,8 @@ Every repo you see here was born from a personal need:
 ## 🚧 Note to Visitors
 These pages and projects are **under construction**. Since I build them for my personal use, you might find broken links or missing features. If you are a fellow trader or developer and have feedback to help me improve:
 
-🟢 **WhatsApp Me:** [Message Jagdish](https://wa.me/9779702406668) ---
+🟢 **WhatsApp Me:** [Message Jagdish](https://wa.me/9779702406668) 
+---
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jagdishsah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
